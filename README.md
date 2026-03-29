@@ -32,16 +32,7 @@
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html,css&theme=dark" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,postgres,sqlite&theme=dark" />
-
-### Tooling & Infra
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
-
-### Learning
+<img src="https://skillicons.dev/icons?i=angular,ts,tailwind,nestjs,nodejs,prisma,postgres,git,github,docker&theme=dark" />
 <img src="https://skillicons.dev/icons?i=react,graphql&theme=dark" />
 
 </div>
