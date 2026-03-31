@@ -21,9 +21,8 @@
 
 - 🎓 Systems Engineering degree, programming self-taught in practice
 - 💼 Building production-grade SaaS apps solo — inventory management, dashboards, APIs
-- 🤖 AI-assisted development workflow (I understand the code, not just copy-paste it)
 - 🌍 Based in Honduras · EN / ES
-- 🎯 Goal: land my first fullstack developer role
+- 🎯 Building production-grade software and looking for a team to grow with
 - ⚡ Fun fact: Tech support agent at a TV channel by day, fullstack developer by night
 
 ---
