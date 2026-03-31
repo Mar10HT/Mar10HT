@@ -84,5 +84,5 @@
 ---
 
 <div align="center">
-  <sub>Built with ☕ and too many late nights</sub>
+  <p>Built with ☕ and too many late nights</p>
 </div>
