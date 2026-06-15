@@ -2,86 +2,59 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/Mar10HT">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=4D7C6F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mario+%F0%9F%91%8B;Fullstack+Developer;TypeScript+%7C+Angular+%7C+NestJS;Learning+and+building+in+public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=4D7C6F&center=true&vCenter=true&width=620&lines=Mario+Herrera;Fullstack+Developer;Shopify+%7C+React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Short bio -->
 <p>
-  Systems engineer · self-taught fullstack dev · building real apps to get hired 🚀<br/>
-  Currently focused on <strong>Angular</strong> + <strong>NestJS</strong> + <strong>TypeScript</strong>
+  Fullstack Developer · 3+ years building production web apps and e-commerce solutions<br/>
+  Shopify-certified · Specialized in <strong>Liquid</strong>, <strong>React/Next.js</strong>, and <strong>Node.js</strong>
+</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mar10ht.dev-4d7c6f?style=for-the-badge&logo=vercel&logoColor=white)](https://landing-personal-lac.vercel.app)
+
+---
+
+</div>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,bun,graphql,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,figma&theme=dark" />
+
+</div>
+
+<p align="center">
+  <strong>Shopify</strong> · Liquid · Online Store 2.0 · Storefront API · Admin GraphQL API · Shopify CLI
 </p>
 
 ---
 
-</div>
+## Featured Projects
 
-## 🙋 About me
+### [Obsid — Inventory Management System](https://github.com/Mar10HT/Inv-App)
+[Landing](https://obsid-landing.vercel.app/) · [Live App](https://inventory-app-seven-tau.vercel.app)
 
-- 🎓 Systems Engineering degree, programming self-taught in practice
-- 💼 Building production-grade SaaS apps solo — inventory management, dashboards, APIs
-- 🌍 Based in Honduras · EN / ES
-- 🎯 Building production-grade software and looking for a team to grow with
-- ⚡ Fun fact: Tech support agent at a TV channel by day, fullstack developer by night
+Full-stack inventory SaaS with role-based access, audit logs, loans, transfers, and reporting.
+
+**Stack:** Angular 19 · Signals · NestJS · Prisma · PostgreSQL · JWT · i18n (EN/ES)
 
 ---
 
-## 🛠️ Tech Stack
+## Currently Learning
+
+- React Native + Expo (cross-platform mobile)
+- Turborepo monorepos
+- Advanced Shopify performance patterns
+
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,ts,tailwind,nestjs,nodejs,prisma,postgres,git,github,docker&theme=dark" />
-<img src="https://skillicons.dev/icons?i=react,graphql&theme=dark" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### [Obsid — Inventory Management System](https://github.com/Mar10HT/Inv-App) · [Landing](https://obsid-landing.vercel.app/) · [Live App](https://inventory-app-seven-tau.vercel.app)
-
-> Full-stack inventory SaaS with role-based access, audit logs, loans, transfers, stock movements, and reporting.
-
-- **Frontend**: Angular 19 · Standalone components · Signals · ngx-permissions · ApexCharts
-- **Backend**: NestJS · Prisma · JWT auth · Role guards · Audit module
-- **DB**: SQLite (dev) → PostgreSQL (prod)
-- **Design**: Custom dark/light design system · CSS variables · Tailwind
-
----
-
-### [OlanchoNet](https://github.com/Mar10HT/olanchonet-landing) · [Live](https://olancho-net-landing.vercel.app/)
-
-> Landing page for a regional internet service provider in Honduras.
-
-- **Stack**: Astro · Tailwind CSS v4 · GSAP
-- **Focus**: Local business · clean UI · fast load
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mar10HT&theme=dark&background=0d1117&border=4d7c6f&ring=4d7c6f&fire=4d7c6f&currStreakLabel=4d7c6f&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" />
-
-</div>
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-landing--personal-4d7c6f?style=for-the-badge&logo=vercel&logoColor=white)](https://landing-personal-lac.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Mar10HT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mar10HT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mar10HT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mar10ht-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mar10ht)
+[![Email](https://img.shields.io/badge/Email-mherrerajt12-4d7c6f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mherrerajt12@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <p>Built with ☕ and too many late nights</p>
 </div>
